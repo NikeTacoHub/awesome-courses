@@ -12,9 +12,12 @@
 
 ## 📚 Content
 
-- [Computer Science and Engineering](#computer-science-and-engineering)
-- [Electronic and Electrical Engineering](#Electronic-and-Electrical-Engineering)
-- [Mathematics](#mathematics)
+- [awesome-courses](#awesome-courses)
+  - [📚 Content](#-content)
+    - [Computer Science and Engineering](#computer-science-and-engineering)
+    - [Electronic and Electrical Engineering](#electronic-and-electrical-engineering)
+    - [Mathematics](#mathematics)
+  - [🤝 Contribution](#-contribution)
 
 ### Computer Science and Engineering
 
@@ -34,6 +37,7 @@
 | CS203    | 数据结构与算法分析/Data Structures and Algorithm Analysis    | 2020 Fall                           | [作业, Cheating Paper](https://github.com/NYH-Dolphin/SUSTech-Course-Info/tree/main/CS203%20Data%20Structure%20and%20Algorithm%20Analysis) | [NYH-Dolphin](https://github.com/NYH-Dolphin), [Scodive](https://github.com/Scodive) |
 | CS203    | 数据结构与算法分析/Data Structures and Algorithm Analysis    | 2023 Fall                           | [教材，课件，作业](https://github.com/chanbengz/sustech-notes/tree/main/CS203 Data Structures and Algorithm Analysis) | [chanbengz](https://github.com/chanbengz)                    |
 | CS203B   | 数据结构与算法分析 B/Data Structures and Algorithm Analysis B | 2022 Fall                           | [教材，课件，作业，Project，Cheating Paper](https://github.com/LunaQu4kez/SUSTech_CS_Course_Notes/tree/master/CS203B) | [LunaQu4kez](https://github.com/LunaQu4kez)                  |
+| CS203B   | 数据结构与算法分析 B/Data Structures and Algorithm Analysis B | 2024 Spring                           | [作业](https://github.com/Wendy-Ying/Data-Structures-and-Algorithm-Analysis-B-Lab)，[Project](https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
 | CS207    | 数字逻辑/Digital Design                                      | 2020 Fall                           | [作业](https://github.com/NYH-Dolphin/SUSTech-Course-Info/tree/main/CS207%20Digital%20Design) | [NYH-Dolphin](https://github.com/NYH-Dolphin)                |
 | CS207    | 数字逻辑/Digital Design                                      | 2023 Fall                           | [教材，课件，作业](https://github.com/chanbengz/sustech-notes/tree/main/CS207%20Digital%20Design) | [chanbengz](https://github.com/chanbengz)                    |
 | CS208    | 算法设计与分析/Algorithm Design and Analysis                 | 2021Spring, 2023Spring              | [课件，作业](https://github.com/NYH-Dolphin/SUSTech-Course-Info/tree/main/CS208%20Algorithm%20Design) | [NYH-Dolphin](https://github.com/NYH-Dolphin), [Maystern](https://github.com/Maystern) |
@@ -67,6 +71,20 @@
 > 🚧整理中🚧
 
 - [SUSTech-EE-Course-Hero](https://github.com/SUSTech-EE-Course-Hero/SUSTech-EE-Course-Hero)
+
+| 课程代码 | 课程名称                                                  | 学期                                | 资源链接                                                     | 贡献者                                                       |
+| -------- | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| EE201   | 模拟电路/Analog Circuits           | 2023 Fall                         | [Project](https://github.com/Wendy-Ying/Electronic-Ocarina) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
+| EE202   | 数字电路/Digital Circuits           | 2024 Spring                         | [Project](https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
+| EE205   | 信号与系统/Signals and Systems           | 2023 Fall                         | [作业](https://github.com/Wendy-Ying/Signals-and-Systems-Lab)，[Project](https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
+| EE206   | 通信原理/Communication Principles           | 2024 Spring                         | [作业](https://github.com/Wendy-Ying/Communication-Principles-Lab) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
+| EE208   | 工程电磁场/Engineering Electromagnetics           | 2024 Spring                         | [作业](https://github.com/Wendy-Ying/Engineering-Electromagnetics-Lab) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
+| EE315   | 数据通信和网络/Data Communications and Networking           | 2024 Fall                         | [Project](https://github.com/Wendy-Ying/Minimum-Sim-LAN) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
+| EE317   | 电子科学创新实验I/Advanced Electronic Science Experiment I           | 2023 Fall                         | [前半部分作业](https://github.com/Wendy-Ying/Android-APP)，[后半部分作业](https://github.com/Wendy-Ying/STM32-Learning) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
+| EE323   | 数字信号处理/Digital Signal Processing           | 2024 Fall                         | [作业](https://github.com/Wendy-Ying/Digital-Signal-Processing-Lab),[Project](https://github.com/Wendy-Ying/Computer-Generate-Music) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
+| EE346   | 移动机器人导航与控制/Mobile Robot Navigation and Control           | 2024 Fall                         | [作业，Project](https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
+| EE351   | 微机原理与微系统/Microprocessors and Microsystems           | 2024 Fall                         | [作业](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Lab)，[Midterm Project](https://github.com/Wendy-Ying/Microprocessors-and-Microsystems-Midterm-Project)，[Final Project](https://github.com/Wendy-Ying/PokeSnap) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
+| SDM274   | 人工智能与机器学习/AI and Machine Learning           | 2024 Fall                         | [作业](https://github.com/Wendy-Ying/AI-and-Machine-Learning-Lab)，[Midterm Project](https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction)，[Final Project](https://github.com/Wendy-Ying/Wheet-Seed-Classification-Prediction) | [Wendy-Ying](https://github.com/Wendy-Ying)                  |
 
 ### Mathematics
 
